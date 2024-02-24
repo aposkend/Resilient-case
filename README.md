@@ -17,7 +17,7 @@ Work Flow:
 7. Implement Drift Diffusion Models on the behavior data.(see DDM.ipynb)
 
 Analysis Result (Partial):
- ![Alt text](https://github.com/aposkend/NCKU_resilient-case/blob/main/NCKU_github/result_examples.png)
+ ![Alt text](https://github.com/aposkend/Resilient-case/blob/main/NCKU_github/result_examples.png)
 
 Visualization Result (Partial)
-![Alt text](https://github.com/aposkend/NCKU_resilient-case/blob/main/NCKU_github/visualization_example.png)
+![Alt text](https://github.com/aposkend/Resilient-case/blob/main/NCKU_github/visualization_example.png)
